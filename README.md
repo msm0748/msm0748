@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/styled--components-61DAFB?style=flat-square&logo=styled--components&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/styled-components-61DAFB?style=flat-square&logo=styled--components&logoColor=white"/></a>
