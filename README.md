@@ -3,11 +3,13 @@
 ## Intro
 
 이름 : 문석민 (Moon Seokmin)
+
 나이 : 1990년생 (33세)
 
 ## Education
 
 부일전자디자인고등학교
+
 웹디자인(UI/UX) & 웹퍼블리셔 취업과정 수료
 
 ## Technology Stacks
