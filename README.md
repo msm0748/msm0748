@@ -2,9 +2,8 @@
 
 ## Intro
 
-이름 : 문석민 (Moon Seokmin)
-
-나이 : 1990년생 (33세)
+* 이름 : 문석민 (Moon Seokmin)
+* 나이 : 1990년생 (33세)
 
 ## Education
 
