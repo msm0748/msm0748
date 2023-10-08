@@ -5,6 +5,7 @@
 * 이름 : 문석민 (Moon Seokmin)
 * 나이 : 1990년생 (34세)
 * 사는 곳 : 서울
+* 블로그 : <https://msm1307.tistory.com/>
 
 ## Education
 
