@@ -10,6 +10,7 @@
 
 * 부일전자디자인고등학교
 * 웹디자인(UI/UX) & 웹퍼블리셔 취업과정 수료
+* 비전공자, 입문자도 가능한 웹 개발자 부트캠프 진행중
 
 ## Technology Stacks
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
