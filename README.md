@@ -7,10 +7,9 @@
 
 ## Education
 
-* 비전공자, 입문자도 가능한 웹 개발자 부트캠프 (새싹x코딩온) - 진행중
-* 웹디자인(UI/UX) & 웹퍼블리셔 과정 (이지디자인컴퓨터학원) - 수료
+* [새싹x코딩온] 비전공자, 입문자도 가능한 웹 개발자 부트캠프 - 진행중
+* [이지디자인컴퓨터학원] 웹디자인(UI/UX) & 웹퍼블리셔 과정 - 수료
 * 부일전자디자인고등학교 - 통신과
-
 
 ## Technology Stacks
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
@@ -21,6 +20,5 @@
 <img src="https://img.shields.io/badge/Puppeteer-DB7093?&style=flat-square&logo=puppeteer&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msm0748&show_icons=true&theme=merko)
