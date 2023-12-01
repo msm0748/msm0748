@@ -17,9 +17,12 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/tailwindcss-rgb(56%2C%20189%2C%20248)?style=flat-square&logo=tailwindcss&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Puppeteer-DB7093?&style=flat-square&logo=puppeteer&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/></a>
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msm0748&show_icons=true&theme=merko)
