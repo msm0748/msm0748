@@ -3,14 +3,14 @@
 ## Intro
 
 * 이름 : 문석민 (Moon Seokmin)
-* 나이 : 1990년생 (34세)
-* 사는 곳 : 서울
+
 
 ## Education
 
-* 부일전자디자인고등학교
-* 웹디자인(UI/UX) & 웹퍼블리셔 취업과정 수료
-* 비전공자, 입문자도 가능한 웹 개발자 부트캠프 진행중
+* 비전공자, 입문자도 가능한 웹 개발자 부트캠프 (새싹x코딩온) - 진행중
+* 웹디자인(UI/UX) & 웹퍼블리셔 과정 (이지디자인컴퓨터학원) - 수료
+* 부일전자디자인고등학교 - 통신과
+
 
 ## Technology Stacks
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
