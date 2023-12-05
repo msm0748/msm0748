@@ -27,6 +27,12 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/express-404D59?style=flat-square&logo=express&logoColor=white"/></a>
 
+<div align=center>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/msm0748)](https://hits.seeyoufarm.com)     
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msm0748&show_icons=true&count_private=true&theme=merko)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msm0748&layout=compact)
+<br>
+</div>
