@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/tailwindcss-rgb(56%2C%20189%2C%20248)?style=flat-square&logo=tailwindcss&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" /></a>
 
 ### 백엔드
 <img src="https://img.shields.io/badge/Puppeteer-DB7093?&style=flat-square&logo=puppeteer&logoColor=white"/></a>
