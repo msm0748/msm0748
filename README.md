@@ -1,9 +1,5 @@
 # 문석민님의 깃허브
 
-## Intro
-
-* 이름 : 문석민 (Moon Seokmin)
-
 
 ## Education
 
