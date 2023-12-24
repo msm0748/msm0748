@@ -12,7 +12,7 @@
 * 부일전자디자인고등학교 - 통신과
 
 ## Technology Stacks
-### 프론트엔드
+### Frontend
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" /></a>
 
-### 백엔드
+### Backend
 <img src="https://img.shields.io/badge/Puppeteer-DB7093?&style=flat-square&logo=puppeteer&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
