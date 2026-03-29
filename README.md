@@ -13,17 +13,9 @@
 <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/TailwindCSS-rgb(56%2C%20189%2C%20248)?style=flat-square&logo=tailwindcss&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
-
-
-
 
 ### Backend
-<img src="https://img.shields.io/badge/Puppeteer-DB7093?&style=flat-square&logo=puppeteer&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white"/></a>
 
 <br>
 <div align=center>
