@@ -22,5 +22,8 @@
 <hr>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msm0748&layout=compact)
+<video src="https://raw.githubusercontent.com/msm1307/my-video-stats/main/out.webm" width="100%" controls playsinline></video>
+[언어 통계 영상](https://raw.githubusercontent.com/msm1307/my-video-stats/main/out.webm)
+
 <br>
 </div>
