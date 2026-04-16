@@ -23,7 +23,7 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msm0748&layout=compact)
 <video src="https://raw.githubusercontent.com/msm1307/my-video-stats/main/out.webm" width="100%" controls playsinline></video>
-[언어 통계 영상](https://raw.githubusercontent.com/msm1307/my-video-stats/main/out.webm)
+[언어 통계 영상](https://raw.githubusercontent.com/msm1307/my-video-stats/main/demo.gif)
 [![문석민 GitHub 언어 통계 영상](https://raw.githubusercontent.com/msm0748/msm0748/main/stats-thumb.png)](https://raw.githubusercontent.com/msm1307/my-video-stats/main/out.webm)
 <br>
 </div>
